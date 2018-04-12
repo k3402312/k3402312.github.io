@@ -5,5 +5,5 @@
 layout: redirected
 sitemap: false
 permalink: /
-redirect_to:  {redirect url}
+redirect_to:  https://ymt117.github.io/
 ---
