@@ -5,5 +5,6 @@
 layout: redirected
 sitemap: false
 permalink: /
+redirect_from: https://k3402312.github.io/article_9
 redirect_to:  https://ymt117.github.io/
 ---
